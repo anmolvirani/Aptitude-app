@@ -1,0 +1,320 @@
+"The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?";23 years;24 years;25 years;None of these;23 years
+The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is:;3500;4000;4050;5000;4000
+"The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:";35 years ;40 years;50 years;None of these;40 years
+"A car owner buys petrol at Rs.7.50, Rs. 8 and Rs. 8.50 per litre for three successive years. What approximately is the average cost per litre of petrol if he spends Rs. 4000 each year?";Rs. 7.98;Rs. 8;Rs. 8.50;Rs. 9;Rs. 7.98
+"In Arun's opinion his weight is greater than 65 kg but less than 72 kg. His brother doest not agree with Arun and he thinks that Arun's weight is greater than 60 kg but less than 70 kg. His mother's view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?";67 kg.;68 kg.;9 kg.;None of these;67 kg.
+The average weight of 16 boys in a class is 50.25 kg and that of the remaining 8 boys is 45.15 kg. Find the average weights of all the boys in the class.;47.55 kg;48 kg;48.55 kg;49.25 kg;48.55 kg
+"If the average marks of three batches of 55, 60 and 45 students respectively is 50, 55, 60, then the average marks of all the students is:";53.33;54.68;55;None of these;54.68
+A pupil's marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half (1/2). The number of pupils in the class is:;10;20;40;73;40
+Which one of the following is not a prime number?;31;61;71;91;91
+"What least number must be added to 1056, so that the sum is completely divisible by 23 ?";2;3;18;None of these;2
+"How many of the following numbers are divisible by 132 ? 264, 396, 462, 792, 968, 2178, 5184, 6336";4;5;6;7;4
+Which of the following is a prime number ?;33;81;93;97;97
+"On dividing a number by 5, we get 3 as remainder. What will the remainder when the square of the this number is divided by 5 ?";0;1;2;4;4
+How many 3-digit numbers are completely divisible 6 ?;149;150;159;166;15;
+How many natural numbers are there between 23 and 100 which are exactly divisible by 6 ?;8;11;12;13;13
+How many 3 digit numbers are divisible by 6 in all ?;149;150;151;166;150
+The smallest prime number is:;1;2;3;4;2
+"On dividing a number by 357, we get 39 as remainder. On dividing the same number 17, what will be the remainder ?";0;3;5;11;5
+"If the product 4864 x 9 P 2 is divisible by 12, then the value of P is:";2;5;6;None of these;None of these
+The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:;276;299;322;345;322
+"Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?";4;10;15;16;16
+"Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:";4;5;6;8;4
+"The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:";9000;9400;9600;9800;9600
+"The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is:";101;107;111;185;111
+Three number are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:;40;80;120;200;40
+"The G.C.D. of 1.08, 0.36 and 0.9 is:";0.03;0.9;0.18;0.108;0.18
+The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:;1;2;3;4;2
+"The least multiple of 7; which leaves a remainder of 4, when divided by 6, 9, 15 and 18 is:";74;94;184;364;364
+"3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?";9;10;11;12;12
+"Running at the same constant rate, 6 identical machines can produce a total of 270 bottles per minute. At this rate, how many bottles could 10 such machines produce in 4 minutes?";648;1800;2700;10800;1800
+"A fort had provision of food for 150 men for 45 days. After 10 days, 25 men left the fort. The number of days for which the remaining food will last, is:";12;20;42;54;42
+"39 persons can repair a road in 12 days, working 5 hours a day. In how many days will 30 persons, working 6 hours a day, complete the work?";10;13;14;15;13
+"If a quarter kg of potato costs 60 paise, how many paise will 200 gm cost?";48 paise;56 paise;58 paise;72 paise;42 paise
+"A wheel that has 6 cogs is meshed with a larger wheel of 14 cogs. When the smaller wheel has made 21 revolutions, then the number of revolutions mad by the larger wheel is:";4;9;12;49;9
+"If 7 spiders make 7 webs in 7 days, then 1 szzpider will make 1 web in how many days?";1;5;7;10;7
+"In a camp, there is a meal for 120 men or 200 children. If 150 children have taken the meal, how many men will be catered to with remaining meal?";20;30;40;50;30
+"An industrial loom weaves 0.128 metres of cloth every second. Approximately, how many seconds will it take for the loom to weave 25 metres of cloth?";178;195;204;488;195
+36 men can complete a piece of work in 18 days. In how many days will 27 men complete the same work?;12;18;22;24;24
+"4 mat-weavers can weave 4 mats in 4 days. At the same rate, how many mats would be woven by 8 mat-weavers in 8 days?";4;8;12;16;16
+Which of the following statements is not correct?;log10 10 = 1;log (2 + 3) = log (2 x 3);log10 1 = 0;log (1 + 2 + 3) = log 1 + log 2 + log 3,log (1 + 2 + 3) = log 1 + log 2 + log 3
+"If log 2 = 0.3010 and log 3 = 0.4771, the value of log5 512 is:";2.87;2.967;3.876;3.912;3.876
+"If log 27 = 1.431, then the value of log 9 is:";0.934;0.945;0.954;0.958;0.954
+"If log10 2 = 0.3010, the value of log10 80 is:";1.602;1.903;3.903;None of these;1.903
+"In a 100 m race, A can give B 10 m and C 28 m. In the same race B can give C:";18 m;20 m;27 m;9 m;20 m 
+"In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:";60 m;40 m;20 m;10 m;20 m 
+"At a game of billiards, A can give B 15 points in 60 and A can give C to 20 points in 60. How many points can B give C in a game of 90?";30 pts;20 pts;10 pts;12 pts;10 pts
+"In a race of 200 m, A can beat B by 31 m and C by 18 m. In a race of 350 m, C will beat B by:";22.25m;25 m;19 m;17 m;25 m
+"In a game of 100 points, A can give B 20 points and C 28 points. Then, B can give C:";8 points;10 points;14 points;40 points;14 points
+In a 300 m race A beats B by 22.5 m or 6 seconds. B's time over the course is:;86 sec;80 sec;76 sec ;None of these;80 sec 
+Which of the following option leads to the portability and security of Java?;Bytecode is executed by JVM;The applet makes the Java code secure and portable;Use of exception handling;Dynamic binding between objects;Bytecode is executed by JVM
+Which of the following is not a Java features?;Dynamic;Architecture Neutral;Object-oriented;Use of pointers;Use of pointers
+The \u0021 article referred to as a;Unicode escape sequence;Octal escape;Hexadecimal;Line feed;Unicode escape sequence
+_____ is used to find and fix bugs in the Java programs.;JVM;JDB;JDK;JRE;JDB
+Which of the following is a valid declaration of a char?;char ch = '\utea';char ch = '\utea';char cr = \u0223;char cc = '\itea';char ch = '\utea'
+What is the return type of the hashCode() method in the Object class?;Object;void;long;int;int
+Which of the following is a valid long literal?;ABH8097;0xnf029L;904423;L990023;0xnf029L
+What does the expression float a = 35 / 0 return?;0;Run time exception;Not a Number;Infinity;Infinity
+Evaluate the following Java expression, if x=3, y=5, and z=10:   ++z + y - y + z + x++;23;25;20;24;24
+Which of the following creates a List of 3 visible items and multiple selections abled?;new List(false, 3);new List(3, true);new List(true, 3);new List(3, false);new List(3, true)
+Which of the following for loop declaration is not valid?;for ( int i = 99; i >= 0; i / 9 );for ( int i = 2; i <= 20; i = 2* i );for ( int i = 20; i >= 2; - -i );for ( int i = 7; i <= 77; i += 7 );for ( int i = 99; i >= 0; i / 9 )
+In which process, a local variable has the same name as one of the instance variables?;Serialization;Variable Shadowing;Multi-threading;Abstraction;Variable Shadowing
+Which of the following is true about the anonymous inner class?;It has only methods;It has no class name;It has a fixed class name;Objects can't be created;It has no class name
+Which package contains the Random class?;java.util package;java.lang package;java.awt package;java.io package;java.util package
+An interface with no fields or methods is known as a ______.;CharSequence Interface;Marker Interface;Abstract Interface;Runnable Interface;Marker Interface
+Which of the following is an immediate subclass of the Panel class?;Applet class;Dialog class;Frame class;Window class;Applet class
+Which option is false about the final keyword?;A final method cannot be overridden in its subclasses.;A final method can be inherited.;A final class cannot extend other classes.;A final class cannot be extended.;A final class cannot extend other classes.
+Which of these classes are the direct subclasses of the Throwable class?;RuntimeException and Error class;IOException and VirtualMachineError class;Error and Exception class;Exception and VirtualMachineError class;Error and Exception class
+In which memory a String is stored, when we create a string using new operator?;Stack;Random storage space;Heap memory;String memory;Heap memory
+Which of the following is a marker interface?;Remote interface;Result interface;Readable interface;Runnable interface;Remote interface
+Which of the following is a reserved keyword in Java?;object;strictfp;system;main;strictfp
+Which keyword is used for accessing the features of a package?;package;import;extends;export;import
+Which of the given methods are of Object class?;notify(), wait( long msecs ), and synchronized();sleep( long msecs ), wait(), and notify();notify(), notifyAll(), and wait();wait( long msecs ), interrupt(), and notifyAll();notify(), notifyAll(), and wait()
+Which of the following is a mutable class in java?;java.lang.String;java.lang.Short;java.lang.Byte;java.lang.StringBuilder;java.lang.StringBuilder
+What is meant by the classes and objects that dependents on each other?;Loose Coupling;Tight Coupling;Cohesion;None of the above;Tight Coupling
+If three threads trying to share a single object at the same time, which condition will arise in this scenario?;Time-Lapse;Recursion;Race condition;Critical situation;Race condition
+If a thread goes to sleep;It releases all the locks it has.;It releases all of its lock except one.;It releases half of its locks.;It does not release any locks.;It does not release any locks.
+What is the default encoding for an OutputStreamWriter?;UTF-8;UTF-12;Default encoding of the host platform;None of the above;Default encoding of the host platform
+Who is known as father of Java Programming Language?;James Gosling;M. P Java;Charel Babbage;Blais Pascal;James Gosling
+To prevent any method from overriding, we declare the method as;final;const;static;abstract;final
+A language is regular if and only if;accepted by DFA;accepted by Turing machine;accepted by LBA;accepted by PDA;accepted by DFA
+Regular grammar is;context free grammar; none of the mentioned; english grammar; non context free grammar;context free grammar
+L and ~L are recursive enumerable then L is;Regular;Context free;Context sensitive;Recursive;Recursive
+Regular expressions are closed under;Union;Intersection;Kleen star;All of the mentioned;All of the mentioned
+Which of the technique can be used to prove that a language is non regular?;Ardens theorem;Pumping Lemma;Ogden’s Lemma;None of the mentioned;Pumping Lemma
+If L is DFA-regular, L’ is;Non regular;DFA-regular;Non-finite; None of the mentioned;DFA-regular
+Which of the following are related to tree automaton?;Myphill Nerode Theorem;Courcelle’s Theorem;State machine;All of the mentioned;All of the mentioned
+The problem that is undecidable -;Finiteness problem for FSA’s;Equivalence problem for FSA’s;Membership problem for CFG’s;Ambiguity problem for CFG’s;Ambiguity problem for CFG’s
+3-SAT and 2-SAT problems are;NP-complete and in P respectively;Undecidable and NP-complete;Both NP-complete;Both in P;NP-complete and in P respectively
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
